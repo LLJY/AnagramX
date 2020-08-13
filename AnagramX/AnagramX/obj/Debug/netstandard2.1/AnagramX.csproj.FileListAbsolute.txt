@@ -1,0 +1,15 @@
+C:/Users/lucas/source/repos/AnagramX/AnagramX/AnagramX/obj/Debug/netstandard2.1/AnagramX.csprojAssemblyReference.cache
+/home/lucas/Projects/GL/AnagramX/AnagramX/AnagramX/bin/Debug/netstandard2.1/AnagramX.deps.json
+/home/lucas/Projects/GL/AnagramX/AnagramX/AnagramX/bin/Debug/netstandard2.1/AnagramX.dll
+/home/lucas/Projects/GL/AnagramX/AnagramX/AnagramX/bin/Debug/netstandard2.1/ref/AnagramX.dll
+/home/lucas/Projects/GL/AnagramX/AnagramX/AnagramX/bin/Debug/netstandard2.1/AnagramX.pdb
+/home/lucas/Projects/GL/AnagramX/AnagramX/AnagramX/obj/Debug/netstandard2.1/AnagramX.csprojAssemblyReference.cache
+/home/lucas/Projects/GL/AnagramX/AnagramX/AnagramX/obj/Debug/netstandard2.1/App.xaml.g.cs
+/home/lucas/Projects/GL/AnagramX/AnagramX/AnagramX/obj/Debug/netstandard2.1/MainPage.xaml.g.cs
+/home/lucas/Projects/GL/AnagramX/AnagramX/AnagramX/obj/Debug/netstandard2.1/AnagramX.AssemblyInfoInputs.cache
+/home/lucas/Projects/GL/AnagramX/AnagramX/AnagramX/obj/Debug/netstandard2.1/AnagramX.AssemblyInfo.cs
+/home/lucas/Projects/GL/AnagramX/AnagramX/AnagramX/obj/Debug/netstandard2.1/AnagramX.csproj.CoreCompileInputs.cache
+/home/lucas/Projects/GL/AnagramX/AnagramX/AnagramX/obj/Debug/netstandard2.1/XamlC.stamp
+/home/lucas/Projects/GL/AnagramX/AnagramX/AnagramX/obj/Debug/netstandard2.1/AnagramX.dll
+/home/lucas/Projects/GL/AnagramX/AnagramX/AnagramX/obj/Debug/netstandard2.1/ref/AnagramX.dll
+/home/lucas/Projects/GL/AnagramX/AnagramX/AnagramX/obj/Debug/netstandard2.1/AnagramX.pdb

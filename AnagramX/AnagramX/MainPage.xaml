@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="AnagramX.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+
+        <Entry x:Name="AnagramText" Placeholder="Text" Margin="12">
+            <Entry.Keyboard>
+                <Keyboard x:FactoryMethod="Create">
+                    <x:Arguments>
+                        <KeyboardFlags>CapitalizeCharacter</KeyboardFlags>
+                    </x:Arguments>
+                </Keyboard>
+            </Entry.Keyboard>
+        </Entry>
+        <StackLayout x:Name="ButtonsLayout" Orientation="Horizontal">
+            <Button
+            x:Name="RandomButton"
+            Text="Random"
+                HorizontalOptions="FillAndExpand"
+                Clicked="RandomButton_Clicked"/>
+            <Button
+                x:Name="GenerateButton"
+                Text="Generate"
+                    HorizontalOptions="FillAndExpand"
+                Clicked="GenerateButton_Clicked"/>
+        </StackLayout>
+        <ActivityIndicator x:Name="progressCircle" HorizontalOptions="CenterAndExpand"/>
+        <Label x:Name="progressText" Text="lol" HorizontalOptions="Center"/>
+        <ListView
+            x:Name="AnagramsListView"/>
+
+    </StackLayout>
+
+</ContentPage>

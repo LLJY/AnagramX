@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rDvTp8HOcCG9Y7HET9KfWph/n8zkHS5U4MQ4rYC22VRj7a5hdQBcU9PLCL8TruXIHvW01hYefBbc7At+/+lPgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas\\source\\repos\\AnagramX\\AnagramX\\AnagramX.iOS\\AnagramX.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}

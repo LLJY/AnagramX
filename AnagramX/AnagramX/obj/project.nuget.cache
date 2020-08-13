@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Llx9Ut1k0NUTaMy6Gh6DlOtQoYUd6F6kISWdAI5+wPuWcZ4FoDc5SnuRFxNcOoUViGPtvJOG7Rqbq+pXNcMhhw==",
+  "success": true,
+  "projectFilePath": "/home/lucas/Projects/GL/AnagramX/AnagramX/AnagramX/AnagramX.csproj",
+  "expectedPackageFiles": [
+    "/home/lucas/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/home/lucas/.nuget/packages/xamarin.essentials/1.3.1/xamarin.essentials.1.3.1.nupkg.sha512",
+    "/home/lucas/.nuget/packages/xamarin.forms/4.4.0.991265/xamarin.forms.4.4.0.991265.nupkg.sha512",
+    "/home/lucas/.nuget/packages/netstandard.library.ref/2.1.0/netstandard.library.ref.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

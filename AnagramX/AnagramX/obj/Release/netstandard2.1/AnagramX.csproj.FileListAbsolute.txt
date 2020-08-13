@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\AnagramX\AnagramX\AnagramX\bin\Release\netstandard2.1\AnagramX.deps.json
+C:\Users\lucas\source\repos\AnagramX\AnagramX\AnagramX\bin\Release\netstandard2.1\AnagramX.dll
+C:\Users\lucas\source\repos\AnagramX\AnagramX\AnagramX\bin\Release\netstandard2.1\ref\AnagramX.dll
+C:\Users\lucas\source\repos\AnagramX\AnagramX\AnagramX\bin\Release\netstandard2.1\AnagramX.pdb
+C:\Users\lucas\source\repos\AnagramX\AnagramX\AnagramX\obj\Release\netstandard2.1\AnagramX.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\AnagramX\AnagramX\AnagramX\obj\Release\netstandard2.1\App.xaml.g.cs
+C:\Users\lucas\source\repos\AnagramX\AnagramX\AnagramX\obj\Release\netstandard2.1\MainPage.xaml.g.cs
+C:\Users\lucas\source\repos\AnagramX\AnagramX\AnagramX\obj\Release\netstandard2.1\AnagramX.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\AnagramX\AnagramX\AnagramX\obj\Release\netstandard2.1\AnagramX.AssemblyInfo.cs
+C:\Users\lucas\source\repos\AnagramX\AnagramX\AnagramX\obj\Release\netstandard2.1\AnagramX.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\AnagramX\AnagramX\AnagramX\obj\Release\netstandard2.1\XamlC.stamp
+C:\Users\lucas\source\repos\AnagramX\AnagramX\AnagramX\obj\Release\netstandard2.1\AnagramX.dll
+C:\Users\lucas\source\repos\AnagramX\AnagramX\AnagramX\obj\Release\netstandard2.1\ref\AnagramX.dll
+C:\Users\lucas\source\repos\AnagramX\AnagramX\AnagramX\obj\Release\netstandard2.1\AnagramX.pdb
